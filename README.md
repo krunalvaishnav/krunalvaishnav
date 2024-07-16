@@ -1,6 +1,3 @@
-### krunalvaishnav1
-
-
 ### Namaste :pray:
 
 👋 I'm Krunal Vaishnav, a passionate web developer on a journey to craft remarkable digital experiences.
