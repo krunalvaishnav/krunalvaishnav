@@ -16,9 +16,10 @@ Contect Me
 
 - **Gmail:** [krunalvaishnav@gmail.com](mailto:krunalvaishnav@gmail.com)
 - **Phone:** [+91 7043754778](tel:+7043754778)
-- **GitHub:** [krunalvaishnav1](https://github.com/krunalvaishnav1)
+- **Portfolio:** https://krunalvaishnav.vercel.app/
+- **GitHub:** [krunalvaishnav1](https://github.com/krunalvaishnav)
 - **LinkedIn:** [krunalvaishnav](https://www.linkedin.com/in/krunalvaishnav/)
-- **LeetCode:** [krunalvaishnav1](https://leetcode.com/u/krunalvaishnav1/)
+- **LeetCode:** [krunalvaishnav1](https://leetcode.com/u/krunalvaishnav/)
 - **GeeksforGeeks:** [krunalvais8yvr](https://www.geeksforgeeks.org/user/krunalvais8yvr/)
 
 
