@@ -1,4 +1,4 @@
-### 🙏 Namaste
+### 🙏 Hello
 
 👋 I'm **Krunal Vaishnav**, a passionate **Full Stack Developer** on a journey to craft remarkable digital experiences.
 
